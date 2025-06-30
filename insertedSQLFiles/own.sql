@@ -1,0 +1,12 @@
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1001',1);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1001',2);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1002',2);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1003',3);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1004',4);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1005',5);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1005',8);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1006',6);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1007',7);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1008',8);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1009',9);
+INSERT INTO `own` (`Owner_SSN`,`Hotel_ID`) VALUES ('1010',10);

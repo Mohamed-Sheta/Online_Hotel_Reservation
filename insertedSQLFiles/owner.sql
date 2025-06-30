@@ -1,0 +1,10 @@
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('John','A','Smith','1001',123456,'M','1975-05-20','American');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Maria','B','Garcia','1002',234567,'F','1980-09-15','Spanish');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Ahmed','M','Al-Farsi','1003',345678,'M','1982-12-01','Omani');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Liu','H','Wang','1004',456789,'F','1990-03-10','Chinese');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Giovanni','C','Bianchi','1005',567890,'M','1978-07-25','Italian');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Sarah','D','Johnson','1006',678901,'F','1985-11-18','Canadian');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Mikhail','V','Ivanov','1007',789012,'M','1972-01-22','Russian');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Aisha','J','Khan','1008',890123,'F','1993-06-09','Pakistani');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('David','E','Wilson','1009',901234,'M','1988-04-17','British');
+INSERT INTO `owner` (`Fname`,`minit`,`Lname`,`SSN`,`phone`,`sex`,`Bdate`,`Nationality`) VALUES ('Natalia','F','Petrova','1010',112233,'F','1991-10-30','Ukrainian');
